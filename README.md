@@ -1,3 +1,15 @@
+```
+__        __   _          _                  ____  _             _
+\ \      / /__| |__      / \   _ __  _ __   / ___|| |_ __ _ _ __| |_ ___ _ __
+ \ \ /\ / / _ \ '_ \    / _ \ | '_ \| '_ \  \___ \| __/ _` | '__| __/ _ \ '__|
+  \ V  V /  __/ |_) |  / ___ \| |_) | |_) |  ___) | || (_| | |  | ||  __/ |
+   \_/\_/ \___|_.__/  /_/   \_\ .__/| .__/  |____/ \__\__,_|_|   \__\___|_|
+                              |_|   |_|     │
+                                            ├─ 🔒 https://programando.web.app
+```
+👨🏻‍💻 Desnvolvimento `Web`:<span style="color: red"> __#__ angular</span> - <span style="color: blue"> __#__ typeScript</span> - <span style="color: yellow"> __#__ firebase</span> - <span style="color: purple"> __#__ rxjs</span> - <span style="color: lightblue"> __#__ ionic</span> - <span style="color: orange"> __#__ material</span>
+
+
 # Starter
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
