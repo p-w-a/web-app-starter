@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  padding: 6px 24px;
+  display: flex;
+  flex-direction: column;
+}
+
+@import "scss/app.scss";
